@@ -47,7 +47,7 @@
 - **Text:** Large heading
 - **Media:** Image of the product
 
-![](/Screenshots/homepage.png)
+![home](/Screenshots/homepage.png)
 
 ###### Contact page
 ##### Fields
@@ -56,7 +56,7 @@
 - **Number:** Contact number and times
 - **Media:** Phone & email icons
 
-![](/Screenshots/contact-us.png)
+![contact](/Screenshots/contact-us.png)
 
 
 ## **Collection Type**
@@ -68,7 +68,7 @@
 - **Enumeration:** Dropdown menu
 - **Relation:** 1-to-many
 
-![](/Screenshots/products.png)
+![products](/Screenshots/products.png)
 
 ###### Get Social page
 ##### Fields
@@ -77,7 +77,7 @@
 - **Enumeration:** Dropdown menu
 - **Relation:** Mant-to-many
 
-![](/Screenshots/get-social.png)
+![social](/Screenshots/get-social.png)
 
 # Adapt & Critique
 
