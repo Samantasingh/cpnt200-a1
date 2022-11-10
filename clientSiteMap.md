@@ -42,36 +42,39 @@
 
 # Content Type
 - ## **Single Type**
-
-* Home
+Homepage
 ### Fields
 - **Text:** Large heading
 - **Media:** Image of the product
+
 ![](/Screenshots/homepage.png)
 
-* Contact Us
+Contact page
 ### Fields
 - **Email:** Company email - off site
 - **Text:** Heading & small text
 - **Number:** Contact number and times
 - **Media:** Phone & email icons
+
 ![](/Screenshots/contact-us.png)
 
 
 ## **Collection Type**
 
-* Our Products
+Products list
 ### Fields
 - **Text:** Large heading
 - **Media:** Images of different products
 - **Enumeration:** Dropdown menu
 - **Relation:** 1-to-many
+
 ![](/Screenshots/products.png)
 
-* Get Social
+Get Social page
 ### Fields
 - **Text:** Large heading & small text
 - **Media:** Social meadia icons & posts
 - **Enumeration:** Dropdown menu
 - **Relation:** Mant-to-many
+
 ![](/Screenshots/get-social.png)
