@@ -37,12 +37,12 @@
 
 # Sitemap
 
-![](/Screenshots/sitemap.png)
+![](/webpageScreencaps/sitemap.png)
 
 # Content Type
 ## **Single Type**
 ###### Homepage
-![](/Screenshots/homepage.png)
+![](/webpageScreencaps/homepage.png)
 ##### Fields
 - **Text:** Large heading
 - **Media:** Image of the product
@@ -56,7 +56,7 @@
 - **Number:** Contact number and times
 - **Media:** Phone & email icons
 
-![](/Screenshots/contact-us.png)
+![](/webpageScreencaps/contact-us.png)
 
 
 ## **Collection Type**
@@ -68,7 +68,7 @@
 - **Enumeration:** Dropdown menu
 - **Relation:** 1-to-many
 
-![](/Screenshots/products.png)
+![](/webpageScreencaps/products.png)
 
 ###### Get Social page
 ##### Fields
@@ -77,7 +77,7 @@
 - **Enumeration:** Dropdown menu
 - **Relation:** Mant-to-many
 
-![](/Screenshots/get-social.png)
+![](/webpageScreencaps/get-social.png)
 
 # Adapt & Critique
 
